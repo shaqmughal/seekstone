@@ -232,8 +232,9 @@ export interface RetrievalEvalOptions {
   experiments?: boolean;
   /**
    * Also evaluate the server's ACTUAL search tool with mode semantic/hybrid
-   * (first model only) — the shipped code path, using the real per-vault
-   * embedding cache. This is the SHA-307 acceptance run.
+   * for EVERY model — the shipped code path, using the real per-vault
+   * embedding cache. This is the SHA-307 acceptance run; per-model since
+   * SHA-323 so the default model's published number is also the real tool.
    */
   shipped?: boolean;
   /**
@@ -416,28 +417,29 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     }
   }
 
-  let shippedStop: (() => void) | undefined;
+  const shippedStops: Array<() => void> = [];
   let competitorStops: Array<() => Promise<void>> = [];
   let competitorSetups: CompetitorSetup[] | undefined;
-  if (opts.shipped && opts.modelIds[0]) {
+  if (opts.shipped) {
     const { buildShipped } = await import('./shipped.js');
     const { defaultCacheDir } = await import('../../../server/src/semantic/config.js');
     const { homedir } = await import('node:os');
-    const shipped = await buildShipped(
-      lexical.ctx,
-      join(opts.modelsDir, opts.modelIds[0]),
-      defaultCacheDir(process.env, homedir()),
-      opts.loadEmbedder,
-    );
-    shippedStop = shipped.stop;
-    log(`shipped semantic index ready in ${Math.round(shipped.buildMs)} ms (real cache path)`);
-    for (const mode of ['semantic', 'hybrid'] as const) {
-      const fn = (q: GoldenQuery) => shipped.rank(mode)(q.query);
-      conditions.push({
-        condition: `shipped-${mode}:${opts.modelIds[0]}`,
-        rank: fn,
-        timedRank: fn,
-      });
+    const cacheDir = defaultCacheDir(process.env, homedir());
+    for (const modelId of opts.modelIds) {
+      const shipped = await buildShipped(
+        lexical.ctx,
+        join(opts.modelsDir, modelId),
+        cacheDir,
+        opts.loadEmbedder,
+      );
+      shippedStops.push(shipped.stop);
+      log(
+        `shipped semantic index (${modelId}) ready in ${Math.round(shipped.buildMs)} ms (real cache path)`,
+      );
+      for (const mode of ['semantic', 'hybrid'] as const) {
+        const fn = (q: GoldenQuery) => shipped.rank(mode)(q.query);
+        conditions.push({ condition: `shipped-${mode}:${modelId}`, rank: fn, timedRank: fn });
+      }
     }
   }
 
@@ -505,7 +507,7 @@ export async function runRetrievalEval(opts: RetrievalEvalOptions): Promise<Retr
     log(`${condition}: hit@5 ${conditionResults.at(-1)?.metrics.overall.hit5.toFixed(1)}%`);
   }
 
-  shippedStop?.();
+  for (const stop of shippedStops) stop();
   for (const stop of competitorStops) await stop();
   return {
     snapshotDate: new Date().toISOString(),

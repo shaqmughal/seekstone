@@ -1,13 +1,13 @@
 # Retrieval-quality eval (SHA-257 spike)
 
-- **Snapshot:** 2026-08-29T21:46:35.590Z
-- **Machine:** darwin/arm64, node v25.9.0, 16 cpus
+- **Snapshot:** 2026-09-04T02:10:14.010Z
+- **Machine:** darwin/arm64, node v26.0.0, 10 cpus
 - **Vault:** packages/harness/fixtures/vault (10000 notes)
 - **Query set:** 150 queries (90 semantic, 30 lexical, 30 topical), 20 latency runs/query
 - **Splits:** dev 90 (54/18/18), holdout 60 (36/12/12) — tuning reads dev only; gate v2 reports on holdout
-- **Lexical index build:** 43833.00 ms
-- **potion-retrieval-32M:** dim 512, 45964 chunks, index build 25453.25 ms, model load 90.27 ms
-- **potion-base-8M:** dim 256, 45964 chunks, index build 27335.28 ms, model load 16.55 ms
+- **Lexical index build:** 57579.00 ms
+- **potion-retrieval-32M:** dim 512, 45964 chunks, index build 40277.95 ms, model load 109.28 ms
+- **potion-base-8M:** dim 256, 45964 chunks, index build 43522.17 ms, model load 24.56 ms
 
 ## Retrieval quality
 
@@ -33,14 +33,22 @@
 | hybrid-rrf:potion-base-8M | semantic | 43.3% | 0.270 | 90 |
 | hybrid-rrf:potion-base-8M | lexical | 100.0% | 0.983 | 30 |
 | hybrid-rrf:potion-base-8M | topical | 30.0% | 0.162 | 30 |
-| shipped-semantic:potion-retrieval-32M | overall | 82.7% | 0.641 | 150 |
-| shipped-semantic:potion-retrieval-32M | semantic | 83.3% | 0.623 | 90 |
-| shipped-semantic:potion-retrieval-32M | lexical | 100.0% | 0.942 | 30 |
-| shipped-semantic:potion-retrieval-32M | topical | 63.3% | 0.395 | 30 |
-| shipped-hybrid:potion-retrieval-32M | overall | 82.7% | 0.653 | 150 |
-| shipped-hybrid:potion-retrieval-32M | semantic | 83.3% | 0.623 | 90 |
+| shipped-semantic:potion-retrieval-32M | overall | 88.7% | 0.775 | 150 |
+| shipped-semantic:potion-retrieval-32M | semantic | 93.3% | 0.830 | 90 |
+| shipped-semantic:potion-retrieval-32M | lexical | 100.0% | 0.978 | 30 |
+| shipped-semantic:potion-retrieval-32M | topical | 63.3% | 0.409 | 30 |
+| shipped-hybrid:potion-retrieval-32M | overall | 88.7% | 0.780 | 150 |
+| shipped-hybrid:potion-retrieval-32M | semantic | 93.3% | 0.830 | 90 |
 | shipped-hybrid:potion-retrieval-32M | lexical | 100.0% | 1.000 | 30 |
-| shipped-hybrid:potion-retrieval-32M | topical | 63.3% | 0.395 | 30 |
+| shipped-hybrid:potion-retrieval-32M | topical | 63.3% | 0.409 | 30 |
+| shipped-semantic:potion-base-8M | overall | 84.0% | 0.694 | 150 |
+| shipped-semantic:potion-base-8M | semantic | 87.8% | 0.756 | 90 |
+| shipped-semantic:potion-base-8M | lexical | 100.0% | 0.944 | 30 |
+| shipped-semantic:potion-base-8M | topical | 56.7% | 0.258 | 30 |
+| shipped-hybrid:potion-base-8M | overall | 84.0% | 0.702 | 150 |
+| shipped-hybrid:potion-base-8M | semantic | 87.8% | 0.756 | 90 |
+| shipped-hybrid:potion-base-8M | lexical | 100.0% | 0.983 | 30 |
+| shipped-hybrid:potion-base-8M | topical | 56.7% | 0.258 | 30 |
 
 ## Retrieval quality by split (SHA-312)
 
@@ -88,34 +96,52 @@ Dev is the tuning split; holdout is the reporting split for gate v2.
 | hybrid-rrf:potion-base-8M | holdout | semantic | 44.4% | 0.246 | 36 |
 | hybrid-rrf:potion-base-8M | holdout | lexical | 100.0% | 1.000 | 12 |
 | hybrid-rrf:potion-base-8M | holdout | topical | 41.7% | 0.240 | 12 |
-| shipped-semantic:potion-retrieval-32M | dev | overall | 81.1% | 0.634 | 90 |
-| shipped-semantic:potion-retrieval-32M | dev | semantic | 81.5% | 0.608 | 54 |
-| shipped-semantic:potion-retrieval-32M | dev | lexical | 100.0% | 0.931 | 18 |
-| shipped-semantic:potion-retrieval-32M | dev | topical | 61.1% | 0.417 | 18 |
-| shipped-semantic:potion-retrieval-32M | holdout | overall | 85.0% | 0.651 | 60 |
-| shipped-semantic:potion-retrieval-32M | holdout | semantic | 86.1% | 0.645 | 36 |
-| shipped-semantic:potion-retrieval-32M | holdout | lexical | 100.0% | 0.958 | 12 |
-| shipped-semantic:potion-retrieval-32M | holdout | topical | 66.7% | 0.361 | 12 |
-| shipped-hybrid:potion-retrieval-32M | dev | overall | 81.1% | 0.648 | 90 |
-| shipped-hybrid:potion-retrieval-32M | dev | semantic | 81.5% | 0.608 | 54 |
+| shipped-semantic:potion-retrieval-32M | dev | overall | 86.7% | 0.745 | 90 |
+| shipped-semantic:potion-retrieval-32M | dev | semantic | 90.7% | 0.778 | 54 |
+| shipped-semantic:potion-retrieval-32M | dev | lexical | 100.0% | 0.963 | 18 |
+| shipped-semantic:potion-retrieval-32M | dev | topical | 61.1% | 0.431 | 18 |
+| shipped-semantic:potion-retrieval-32M | holdout | overall | 91.7% | 0.820 | 60 |
+| shipped-semantic:potion-retrieval-32M | holdout | semantic | 97.2% | 0.908 | 36 |
+| shipped-semantic:potion-retrieval-32M | holdout | lexical | 100.0% | 1.000 | 12 |
+| shipped-semantic:potion-retrieval-32M | holdout | topical | 66.7% | 0.375 | 12 |
+| shipped-hybrid:potion-retrieval-32M | dev | overall | 86.7% | 0.753 | 90 |
+| shipped-hybrid:potion-retrieval-32M | dev | semantic | 90.7% | 0.778 | 54 |
 | shipped-hybrid:potion-retrieval-32M | dev | lexical | 100.0% | 1.000 | 18 |
-| shipped-hybrid:potion-retrieval-32M | dev | topical | 61.1% | 0.417 | 18 |
-| shipped-hybrid:potion-retrieval-32M | holdout | overall | 85.0% | 0.659 | 60 |
-| shipped-hybrid:potion-retrieval-32M | holdout | semantic | 86.1% | 0.645 | 36 |
+| shipped-hybrid:potion-retrieval-32M | dev | topical | 61.1% | 0.431 | 18 |
+| shipped-hybrid:potion-retrieval-32M | holdout | overall | 91.7% | 0.820 | 60 |
+| shipped-hybrid:potion-retrieval-32M | holdout | semantic | 97.2% | 0.908 | 36 |
 | shipped-hybrid:potion-retrieval-32M | holdout | lexical | 100.0% | 1.000 | 12 |
-| shipped-hybrid:potion-retrieval-32M | holdout | topical | 66.7% | 0.361 | 12 |
+| shipped-hybrid:potion-retrieval-32M | holdout | topical | 66.7% | 0.375 | 12 |
+| shipped-semantic:potion-base-8M | dev | overall | 83.3% | 0.666 | 90 |
+| shipped-semantic:potion-base-8M | dev | semantic | 85.2% | 0.721 | 54 |
+| shipped-semantic:potion-base-8M | dev | lexical | 100.0% | 0.907 | 18 |
+| shipped-semantic:potion-base-8M | dev | topical | 61.1% | 0.257 | 18 |
+| shipped-semantic:potion-base-8M | holdout | overall | 85.0% | 0.737 | 60 |
+| shipped-semantic:potion-base-8M | holdout | semantic | 91.7% | 0.808 | 36 |
+| shipped-semantic:potion-base-8M | holdout | lexical | 100.0% | 1.000 | 12 |
+| shipped-semantic:potion-base-8M | holdout | topical | 50.0% | 0.260 | 12 |
+| shipped-hybrid:potion-base-8M | dev | overall | 83.3% | 0.678 | 90 |
+| shipped-hybrid:potion-base-8M | dev | semantic | 85.2% | 0.721 | 54 |
+| shipped-hybrid:potion-base-8M | dev | lexical | 100.0% | 0.972 | 18 |
+| shipped-hybrid:potion-base-8M | dev | topical | 61.1% | 0.257 | 18 |
+| shipped-hybrid:potion-base-8M | holdout | overall | 85.0% | 0.737 | 60 |
+| shipped-hybrid:potion-base-8M | holdout | semantic | 91.7% | 0.808 | 36 |
+| shipped-hybrid:potion-base-8M | holdout | lexical | 100.0% | 1.000 | 12 |
+| shipped-hybrid:potion-base-8M | holdout | topical | 50.0% | 0.260 | 12 |
 
 ## Query latency (warm) & payload
 
 | Condition | p50 | p90 | p95 | p99 | payload/query |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| lexical | 49.91 ms | 220.56 ms | 266.63 ms | 490.70 ms | in-process |
-| semantic:potion-retrieval-32M | 22.41 ms | 23.36 ms | 23.79 ms | 24.76 ms | in-process |
-| hybrid-rrf:potion-retrieval-32M | 80.64 ms | 275.12 ms | 313.53 ms | 601.63 ms | in-process |
-| semantic:potion-base-8M | 13.00 ms | 14.20 ms | 14.60 ms | 16.07 ms | in-process |
-| hybrid-rrf:potion-base-8M | 62.73 ms | 231.51 ms | 263.54 ms | 476.63 ms | in-process |
-| shipped-semantic:potion-retrieval-32M | 25.77 ms | 27.40 ms | 28.07 ms | 30.36 ms | in-process |
-| shipped-hybrid:potion-retrieval-32M | 25.40 ms | 49.66 ms | 59.13 ms | 115.65 ms | in-process |
+| lexical | 64.52 ms | 282.17 ms | 328.36 ms | 569.05 ms | in-process |
+| semantic:potion-retrieval-32M | 27.62 ms | 29.59 ms | 30.91 ms | 44.03 ms | in-process |
+| hybrid-rrf:potion-retrieval-32M | 94.40 ms | 320.98 ms | 369.27 ms | 650.25 ms | in-process |
+| semantic:potion-base-8M | 16.09 ms | 17.34 ms | 17.61 ms | 18.03 ms | in-process |
+| hybrid-rrf:potion-base-8M | 78.15 ms | 284.27 ms | 334.90 ms | 608.93 ms | in-process |
+| shipped-semantic:potion-retrieval-32M | 57.64 ms | 67.72 ms | 70.71 ms | 74.14 ms | in-process |
+| shipped-hybrid:potion-retrieval-32M | 61.56 ms | 81.61 ms | 97.27 ms | 132.64 ms | in-process |
+| shipped-semantic:potion-base-8M | 34.31 ms | 40.84 ms | 42.18 ms | 44.94 ms | in-process |
+| shipped-hybrid:potion-base-8M | 37.04 ms | 62.77 ms | 76.15 ms | 112.08 ms | in-process |
 
 ## Hybrid misses at 5 (error-analysis material)
 
@@ -342,12 +368,12 @@ Dev is the tuning split; holdout is the reporting split for gate v2.
 
 - semantic subset hit@5 +26.7 pts (gate ≥ +10): PASS
 - lexical subset hit@5 0.0 pts (gate ≥ -2): PASS
-- semantic warm p95 23.79 ms (gate ≤ 15 ms): FAIL
+- semantic warm p95 30.91 ms (gate ≤ 15 ms): FAIL
 
-### potion-base-8M — SHIP
+### potion-base-8M — NO-SHIP
 
 - semantic subset hit@5 +25.6 pts (gate ≥ +10): PASS
 - lexical subset hit@5 0.0 pts (gate ≥ -2): PASS
-- semantic warm p95 14.60 ms (gate ≤ 15 ms): PASS
+- semantic warm p95 17.61 ms (gate ≤ 15 ms): FAIL
 
-**Overall: SHIP** — chosen model: potion-base-8M
+**Overall: NO-SHIP**
