@@ -25,8 +25,25 @@ Benchmarks run against a **committed synthetic vault** at
   vault removes that dependency entirely — there is no personal data to leak.
 - **Realistic shape.** EB1911's article-size distribution closely matches a real PKM
   vault (median ~2 KB note, long tail to ~800 KB), and the generator adds frontmatter
-  (~59%), wikilinks (~37% intentionally unresolved), tags, and external URLs to mirror a
-  real vault's structure. It reads as a research/reference vault.
+  (~59%), wikilinks, tags, and external URLs to mirror a real vault's structure. It reads
+  as a research/reference vault.
+
+**Two wikilink populations (fixture v2, SHA-322).** The vault's links are two
+deliberately distinct populations, and `gen-vault` reports their densities separately:
+
+- **Prose cross-links (signal): 104,172 links, 11.8/article** at 10k notes. Deterministic,
+  PRNG-free: every first body-prose mention of another article's headword becomes a
+  wikilink (`[[Eagle]]`, or `[[Eagle|eagles]]` — rendered prose is unchanged), with a
+  label-agnostic document-frequency filter (a title mentioned in >3% of notes is too
+  common a word to link precisely; 184 titles excluded). These are real topical edges
+  derived from the same prose the golden-set labels come from — that correlation is the
+  point: it is what makes graph-based retrieval (expansion, backlink-weighted ranking)
+  *measurable*. Fixture v1 had no such links, which SHA-315 proved made graph expansion
+  a null measurement (`fixtures/baseline-reports/EXPANSION-SHA-315.md`).
+- **Planted random links (noise floor): 26,624 links, 2.7/note** (~37% intentionally
+  unresolved) in See-also blocks, daily notes, and MOCs. Seeded-random and
+  label-independent, exactly as in fixture v1 — the golden-set rule that relevance labels
+  derive from body prose only (never tags or planted links) still holds.
 
 The vault is the **canonical committed artifact** — running the benchmark needs nothing
 else. The source corpus is only needed to *regenerate* it.
@@ -73,7 +90,9 @@ npm run harness -- gen-vault --count 10000   # deterministic; same corpus+count+
   (pinned ebook IDs + SHA-256) and downloads the raw volume text to
   `fixtures/corpus/raw/` (gitignored). Checksums guarantee byte-identical input.
 - `gen-vault` is seeded (`--seed`, default 42) and uses no `Math.random`, so output is
-  fully deterministic. Provenance + public-domain status:
+  fully deterministic — including the prose cross-links, which are a pure function of the
+  sampled article set (see [`src/fixtures/linkify.ts`](./src/fixtures/linkify.ts)).
+  Provenance + public-domain status:
   [`fixtures/corpus/PROVENANCE.md`](./fixtures/corpus/PROVENANCE.md).
 - `fetch-models` follows the same committed-manifest pattern for the Model2Vec embedding
   models: [`fixtures/models/manifest.json`](./fixtures/models/manifest.json) pins URLs +

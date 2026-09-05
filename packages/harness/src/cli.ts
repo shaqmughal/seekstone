@@ -389,7 +389,10 @@ cli
       `gen-vault: ${r.notes} notes (${r.articleNotes} article, ${r.dailyNotes} daily, ${r.mocNotes} MOC, ${r.systemNotes} system) + ${r.attachments} attachments`,
     );
     console.log(
-      `           ${r.wikilinks} wikilinks (${r.unresolvedTargets} unresolved), ${r.externalUrls} URLs, ${r.notesWithFrontmatter} with frontmatter`,
+      `           ${r.proseWikilinks} prose cross-links (signal, ${(r.proseWikilinks / r.articleNotes).toFixed(1)}/article; ${r.dfExcludedTitles} titles DF-excluded)`,
+    );
+    console.log(
+      `           ${r.wikilinks} planted random links (noise floor, ${(r.wikilinks / r.notes).toFixed(1)}/note; ${r.unresolvedTargets} unresolved), ${r.externalUrls} URLs, ${r.notesWithFrontmatter} with frontmatter`,
     );
     console.log(`           wrote ${outDir}`);
   });
