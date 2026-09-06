@@ -201,9 +201,30 @@ async function buildTc(vaultRoot: string, log: (m: string) => void): Promise<Com
   });
   log(`obsidian-tc@${TC_VERSION} connected — indexing (cold, via Ollama)…`);
   const t0 = performance.now();
-  const stats = await mcp.callTool('index_vault', { vault: 'main' }, INDEX_TIMEOUT_MS);
+  // tc's index_vault can return its own `operation_timeout … (retryable)`
+  // before finishing a large vault (first seen on fixture v2, whose 130k-link
+  // graph grew its indexing work ~5×). Index progress persists in cacheDir,
+  // so honoring the "retryable" contract — calling again until it completes —
+  // is what a real operator would do; total wall time still counts as the
+  // cold index cost and stays under the same overall budget.
+  let stats = '';
+  let indexCalls = 0;
+  for (;;) {
+    indexCalls++;
+    try {
+      stats = await mcp.callTool('index_vault', { vault: 'main' }, INDEX_TIMEOUT_MS);
+      break;
+    } catch (err) {
+      const message = err instanceof Error ? err.message : String(err);
+      const elapsed = performance.now() - t0;
+      if (!/retryable/i.test(message) || elapsed >= INDEX_TIMEOUT_MS) throw err;
+      log(
+        `obsidian-tc index_vault retryable timeout (call ${indexCalls}, ${Math.round(elapsed / 1000)} s elapsed) — resuming…`,
+      );
+    }
+  }
   const indexMs = performance.now() - t0;
-  log(`obsidian-tc indexed in ${Math.round(indexMs / 1000)} s`);
+  log(`obsidian-tc indexed in ${Math.round(indexMs / 1000)} s (${indexCalls} index_vault calls)`);
 
   const stop = async () => {
     await mcp.close();
@@ -213,7 +234,9 @@ async function buildTc(vaultRoot: string, log: (m: string) => void): Promise<Com
     version: TC_VERSION,
     provider: `ollama/${EMBED_MODEL} (its built-in default; loopback HTTP at index + query time)`,
     indexMs,
-    indexStats: stats.trim().slice(0, 600),
+    indexStats:
+      (indexCalls > 1 ? `[completed after ${indexCalls} index_vault calls — earlier calls hit its internal retryable operation_timeout] ` : '') +
+      stats.trim().slice(0, 600),
   };
 
   return [
