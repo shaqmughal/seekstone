@@ -193,6 +193,31 @@ export function parseProSemanticPaths(raw: string): string[] {
   return paths;
 }
 
+/**
+ * tc surfaces transient `… (retryable)` errors from query tools too (first
+ * seen on fixture v2 right after its ~2 h cold index). One flaky call must
+ * not kill a multi-hour eval; retries stay inside the measured rank() so a
+ * retried query's latency honestly includes them.
+ */
+async function callRetryable(
+  mcp: McpSubprocess,
+  tool: string,
+  args: Record<string, unknown>,
+  attempts = 3,
+): Promise<string> {
+  let lastErr: unknown;
+  for (let i = 0; i < attempts; i++) {
+    try {
+      return await mcp.callTool(tool, args);
+    } catch (err) {
+      lastErr = err;
+      const message = err instanceof Error ? err.message : String(err);
+      if (!/retryable/i.test(message)) throw err;
+    }
+  }
+  throw lastErr;
+}
+
 // ---------------------------------------------------------------- obsidian-tc
 
 async function buildTc(vaultRoot: string, log: (m: string) => void): Promise<CompetitorHandle[]> {
@@ -251,8 +276,9 @@ async function buildTc(vaultRoot: string, log: (m: string) => void): Promise<Com
     provider: `ollama/${EMBED_MODEL} (its built-in default; loopback HTTP at index + query time)`,
     indexMs,
     indexStats:
-      (indexCalls > 1 ? `[completed after ${indexCalls} index_vault calls — earlier calls hit its internal retryable operation_timeout] ` : '') +
-      stats.trim().slice(0, 600),
+      (indexCalls > 1
+        ? `[completed after ${indexCalls} index_vault calls — earlier calls hit its internal retryable operation_timeout] `
+        : '') + stats.trim().slice(0, 600),
   };
 
   return [
@@ -266,7 +292,7 @@ async function buildTc(vaultRoot: string, log: (m: string) => void): Promise<Com
         ],
       },
       rank: async (query) => {
-        const raw = await mcp.callTool('search_semantic', { vault: 'main', query, k: K });
+        const raw = await callRetryable(mcp, 'search_semantic', { vault: 'main', query, k: K });
         return { paths: parseTcItemPaths(raw), payloadBytes: Buffer.byteLength(raw, 'utf8') };
       },
       stop, // shared subprocess: stop closes both conditions; called once each is fine (idempotent close)
@@ -280,7 +306,7 @@ async function buildTc(vaultRoot: string, log: (m: string) => void): Promise<Com
         ],
       },
       rank: async (query) => {
-        const raw = await mcp.callTool('vault_graph_search', {
+        const raw = await callRetryable(mcp, 'vault_graph_search', {
           vault: 'main',
           query,
           final_top_k: K,
