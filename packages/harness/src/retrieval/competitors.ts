@@ -204,15 +204,18 @@ async function callRetryable(
   tool: string,
   args: Record<string, unknown>,
   attempts = 3,
+  timeoutMs = 60_000,
 ): Promise<string> {
   let lastErr: unknown;
   for (let i = 0; i < attempts; i++) {
     try {
-      return await mcp.callTool(tool, args);
+      return await mcp.callTool(tool, args, timeoutMs);
     } catch (err) {
       lastErr = err;
       const message = err instanceof Error ? err.message : String(err);
-      if (!/retryable/i.test(message)) throw err;
+      // Retry tc's own `… (retryable)` errors and our client-side call
+      // timeout — both are transient shapes of the same overload.
+      if (!/retryable|timeout: tools\/call/i.test(message)) throw err;
     }
   }
   throw lastErr;
@@ -306,12 +309,26 @@ async function buildTc(vaultRoot: string, log: (m: string) => void): Promise<Com
         ],
       },
       rank: async (query) => {
-        const raw = await callRetryable(mcp, 'vault_graph_search', {
-          vault: 'main',
-          query,
-          final_top_k: K,
-        });
-        return { paths: parseTcGraphPaths(raw), payloadBytes: Buffer.byteLength(raw, 'utf8') };
+        // 300 s ceiling: v1's graph p99 was 14.7 s, but fixture v2's dense
+        // graph pushed some GraphRAG queries past the 60 s default — measure
+        // the slow query rather than kill the run on it. A query that still
+        // fails every attempt scores as a miss (what a client would get),
+        // logged so the writeup can count them.
+        try {
+          const raw = await callRetryable(
+            mcp,
+            'vault_graph_search',
+            { vault: 'main', query, final_top_k: K },
+            3,
+            300_000,
+          );
+          return { paths: parseTcGraphPaths(raw), payloadBytes: Buffer.byteLength(raw, 'utf8') };
+        } catch (err) {
+          log(
+            `obsidian-tc vault_graph_search gave up (${err instanceof Error ? err.message : err}) — scored as a miss`,
+          );
+          return { paths: [], payloadBytes: 0 };
+        }
       },
       stop: async () => {}, // shared subprocess closed by the sibling condition's stop
     },
