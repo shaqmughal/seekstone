@@ -1,6 +1,6 @@
 {
   "vaultRoot": "packages/harness/fixtures/vault",
-  "snapshotDate": "2026-06-26T00:41:04.731Z",
+  "snapshotDate": "2026-09-05T14:51:52.766Z",
   "machine": {
     "platform": "darwin",
     "arch": "arm64",
@@ -34,151 +34,151 @@
     }
   },
   "size": {
-    "totalBytes": 69585588,
-    "notesBytes": 69572648,
+    "totalBytes": 70435222,
+    "notesBytes": 70422282,
     "attachmentsBytes": 12940,
     "noteSizeDistribution": {
       "n": 10000,
       "min": 51,
-      "median": 2015,
-      "p90": 12047,
-      "p95": 24101,
-      "p99": 92270,
-      "max": 852186,
-      "mean": 6957.2648
+      "median": 2052,
+      "p90": 12255,
+      "p95": 24474,
+      "p99": 93191,
+      "max": 857275,
+      "mean": 7042.2282
     },
     "largestNotes": [
       {
         "relPath": "Notes/Japan.md",
-        "sizeBytes": 852186
+        "sizeBytes": 857275
       },
       {
         "relPath": "Encyclopedia/I/Italy.md",
-        "sizeBytes": 800373
+        "sizeBytes": 805163
       },
       {
         "relPath": "0 Inbox/Mecca.md",
-        "sizeBytes": 616529
+        "sizeBytes": 618183
       },
       {
         "relPath": "Reference/Hydraulics.md",
-        "sizeBytes": 586550
+        "sizeBytes": 587740
       },
       {
         "relPath": "Sources/Cotton.md",
-        "sizeBytes": 454347
+        "sizeBytes": 456711
       },
       {
         "relPath": "Reference/India.md",
-        "sizeBytes": 439230
+        "sizeBytes": 443302
       },
       {
         "relPath": "Sources/Europe.md",
-        "sizeBytes": 438099
+        "sizeBytes": 441227
       },
       {
         "relPath": "Encyclopedia/I/Ireland.md",
-        "sizeBytes": 425398
+        "sizeBytes": 429166
       },
       {
         "relPath": "Encyclopedia/C/Chemistry.md",
-        "sizeBytes": 416889
+        "sizeBytes": 418664
       },
       {
         "relPath": "Encyclopedia/E/English Law.md",
-        "sizeBytes": 398393
+        "sizeBytes": 402469
       },
       {
         "relPath": "Sources/Horticulture.md",
-        "sizeBytes": 393980
+        "sizeBytes": 396044
       },
       {
         "relPath": "Encyclopedia/C/Celt.md",
-        "sizeBytes": 388378
-      },
-      {
-        "relPath": "Encyclopedia/E/Edric.md",
-        "sizeBytes": 344397
+        "sizeBytes": 390731
       },
       {
         "relPath": "Reference/Australia.md",
-        "sizeBytes": 343877
+        "sizeBytes": 346903
+      },
+      {
+        "relPath": "Encyclopedia/E/Edric.md",
+        "sizeBytes": 346344
       },
       {
         "relPath": "Reference/Ethics.md",
-        "sizeBytes": 335595
+        "sizeBytes": 337194
       },
       {
         "relPath": "Encyclopedia/M/Magnesite.md",
-        "sizeBytes": 314736
+        "sizeBytes": 315896
       },
       {
         "relPath": "Notes/History.md",
-        "sizeBytes": 312558
+        "sizeBytes": 314468
       },
       {
         "relPath": "Notes/French Revolutionary Wars.md",
-        "sizeBytes": 294851
+        "sizeBytes": 296346
       },
       {
         "relPath": "Encyclopedia/E/Electric Eel.md",
-        "sizeBytes": 261595
+        "sizeBytes": 263389
       },
       {
         "relPath": "Encyclopedia/C/Crusades.md",
-        "sizeBytes": 252362
+        "sizeBytes": 254174
       },
       {
         "relPath": "Sources/Germanium.md",
-        "sizeBytes": 251431
+        "sizeBytes": 253738
       },
       {
         "relPath": "Sources/Map.md",
-        "sizeBytes": 243537
+        "sizeBytes": 245200
       },
       {
         "relPath": "Sources/Evidence.md",
-        "sizeBytes": 239781
+        "sizeBytes": 241354
       },
       {
         "relPath": "Encyclopedia/I/Insurance.md",
-        "sizeBytes": 237614
+        "sizeBytes": 238664
       },
       {
         "relPath": "Sources/Hindostani.md",
-        "sizeBytes": 230750
+        "sizeBytes": 231896
       }
     ],
     "medianNote": {
-      "relPath": "Encyclopedia/B/Barnby.md",
-      "sizeBytes": 2015
+      "relPath": "0 Inbox/Coro.md",
+      "sizeBytes": 2052
     }
   },
   "links": {
-    "totalWikilinks": 26627,
+    "totalWikilinks": 130799,
     "outboundPerNote": {
       "n": 10000,
       "min": 0,
-      "median": 1,
-      "p90": 6,
-      "p95": 8,
-      "p99": 30,
-      "max": 520,
-      "mean": 2.6627
+      "median": 7,
+      "p90": 27,
+      "p95": 43,
+      "p99": 103,
+      "max": 582,
+      "mean": 13.0799
     },
     "unresolvedWikilinks": 9814,
     "mostLinkedNotes": [
       {
         "target": "Kalinjar",
-        "incoming": 1775
+        "incoming": 1778
       },
       {
         "target": "Heuglin",
-        "incoming": 834
+        "incoming": 837
       },
       {
         "target": "Chateaubriant",
-        "incoming": 548
+        "incoming": 549
       },
       {
         "target": "Helgaud",
@@ -186,87 +186,87 @@
       },
       {
         "target": "Brantford",
-        "incoming": 340
+        "incoming": 341
       },
       {
         "target": "Deschamps",
-        "incoming": 285
+        "incoming": 293
       },
       {
-        "target": "Dendera",
-        "incoming": 266
+        "target": "Brick",
+        "incoming": 281
       },
       {
         "target": "Masonry",
-        "incoming": 216
+        "incoming": 280
       },
       {
-        "target": "Litopterna",
-        "incoming": 213
+        "target": "Dendera",
+        "incoming": 270
       },
       {
-        "target": "Marne",
-        "incoming": 178
+        "target": "Limestone",
+        "incoming": 266
       },
       {
-        "target": "Haxo",
-        "incoming": 170
+        "target": "Colours",
+        "incoming": 263
       },
       {
-        "target": "Gansbacher",
-        "incoming": 163
+        "target": "Error",
+        "incoming": 260
       },
       {
-        "target": "Baring-Gould",
-        "incoming": 137
+        "target": "Manuscript",
+        "incoming": 256
       },
       {
-        "target": "Ballston Spa",
-        "incoming": 126
+        "target": "Heir",
+        "incoming": 255
       },
       {
-        "target": "Beaufort",
-        "incoming": 125
+        "target": "Martin",
+        "incoming": 254
       },
       {
-        "target": "Brogue",
-        "incoming": 103
+        "target": "Corn",
+        "incoming": 252
       },
       {
-        "target": "Coeffeteau",
-        "incoming": 101
+        "target": "Enthusiasm",
+        "incoming": 249
       },
       {
-        "target": "Frost",
-        "incoming": 100
+        "target": "Exchange",
+        "incoming": 249
       },
       {
-        "target": "Landwehr",
-        "incoming": 98
+        "target": "Knight",
+        "incoming": 249
       },
       {
-        "target": "Kalamazoo",
-        "incoming": 97
+        "target": "Marble",
+        "incoming": 249
       },
       {
-        "target": "Courcelle-Seneuil",
-        "incoming": 90
+        "target": "Commune",
+        "incoming": 248
       },
       {
-        "target": "Kino",
-        "incoming": 86
+        "target": "Australia",
+        "incoming": 245
       },
       {
-        "target": "Bengal",
-        "incoming": 80
+        "target": "Corps",
+        "incoming": 244
       },
       {
-        "target": "Liri",
-        "incoming": 79
+        "target": "Coin",
+        "incoming": 239
       },
       {
-        "target": "Lisbon",
-        "incoming": 76
+        "target": "Anne",
+        "incoming": 238
       }
     ],
     "totalExternalUrls": 15278
@@ -340,11 +340,11 @@
         "count": 311
       },
       {
-        "tag": "politics",
+        "tag": "art",
         "count": 258
       },
       {
-        "tag": "art",
+        "tag": "politics",
         "count": 258
       },
       {
@@ -384,11 +384,11 @@
         "count": 122
       },
       {
-        "tag": "warfare",
+        "tag": "mythology",
         "count": 119
       },
       {
-        "tag": "mythology",
+        "tag": "warfare",
         "count": 119
       },
       {
@@ -428,7 +428,7 @@
         "count": 75
       },
       {
-        "tag": "theology",
+        "tag": "ancient-rome",
         "count": 70
       },
       {
@@ -436,7 +436,7 @@
         "count": 70
       },
       {
-        "tag": "ancient-rome",
+        "tag": "theology",
         "count": 70
       },
       {
@@ -460,11 +460,11 @@
         "count": 57
       },
       {
-        "tag": "medieval",
+        "tag": "ancient-greece",
         "count": 57
       },
       {
-        "tag": "ancient-greece",
+        "tag": "medieval",
         "count": 57
       },
       {
@@ -492,11 +492,11 @@
         "count": 49
       },
       {
-        "tag": "renaissance",
+        "tag": "painters",
         "count": 47
       },
       {
-        "tag": "painters",
+        "tag": "renaissance",
         "count": 47
       },
       {
@@ -504,11 +504,11 @@
         "count": 46
       },
       {
-        "tag": "mountains",
+        "tag": "dynasties",
         "count": 45
       },
       {
-        "tag": "dynasties",
+        "tag": "mountains",
         "count": 45
       }
     ]
