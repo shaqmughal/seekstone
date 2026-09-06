@@ -30,7 +30,13 @@ const OLLAMA_URL = process.env.SEEKSTONE_OLLAMA_URL || 'http://127.0.0.1:11434';
 const EMBED_MODEL = 'nomic-embed-text';
 const PRO_VERSION = '4.0.1';
 const TC_VERSION = '1.23.2';
-const INDEX_TIMEOUT_MS = 3_600_000;
+/**
+ * Overall per-competitor index budget. Overridable because fixture v2's dense
+ * link graph pushed obsidian-tc's cold index past the 1 h default even with
+ * retryable-timeout resumes — measuring the true cost needs a bigger budget,
+ * and a fair FAILED verdict needs evidence the budget wasn't the cause.
+ */
+const INDEX_TIMEOUT_MS = Number(process.env.SEEKSTONE_COMPETITOR_INDEX_TIMEOUT_MS) || 3_600_000;
 /** Their default result depth (limit/k default 10) — enough for hit@5 + MRR@10. */
 const K = 10;
 
@@ -53,11 +59,21 @@ export async function buildCompetitors(
   await assertOllama();
   const handles: CompetitorHandle[] = [];
   const failures: CompetitorSetup[] = [];
+  // SEEKSTONE_COMPETITORS: comma-separated subset to run (default: all).
+  // Exists so a single slow competitor can be re-measured (e.g. with a larger
+  // index budget) without re-paying the others' multi-hour setup cost.
+  const only = process.env.SEEKSTONE_COMPETITORS?.split(',')
+    .map((s) => s.trim())
+    .filter(Boolean);
   // Sequential: both servers embed through the same Ollama instance.
   for (const [name, version, build] of [
     ['obsidian-mcp-pro', PRO_VERSION, () => buildMcpPro(vaultRoot, log).then((h) => [h])],
     ['obsidian-tc', TC_VERSION, () => buildTc(vaultRoot, log)],
   ] as const) {
+    if (only && !only.includes(name)) {
+      log(`${name} skipped (SEEKSTONE_COMPETITORS=${only.join(',')})`);
+      continue;
+    }
     const t0 = performance.now();
     try {
       handles.push(...(await build()));
