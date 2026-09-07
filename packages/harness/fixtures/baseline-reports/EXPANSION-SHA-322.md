@@ -64,6 +64,7 @@ Three findings:
   cheap +1 candidate, (b) a semantic-confidence-gated fusion targeting the
   +11 topical headroom without the semantic tax.
 - The v1 caveat about obsidian-tc's GraphRAG (+2 on a signal-free graph =
-  likely noise) now has a live counterpart: v2 gives tc-graph a real graph
-  to expand over — the competitor re-run under this canon re-judges that
-  comparison fairly in both directions.
+  likely noise) is now settled — in tc's favor: on v2's real graph tc-graph
+  measures +4.6 over its own semantic (93.3% overall / 95.0% holdout), at
+  2.9 s median per query. See
+  [COMPETITORS-SHA-322.md](./COMPETITORS-SHA-322.md).
