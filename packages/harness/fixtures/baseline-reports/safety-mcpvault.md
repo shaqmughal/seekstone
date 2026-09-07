@@ -1,9 +1,9 @@
 # Write Safety — mcpvault
 
 - **Adapter:** mcpvault @bitbonsai (filesystem-direct, MCP stdio subprocess)
-- **Snapshot:** 2026-08-03T03:13:07.463Z
+- **Snapshot:** 2026-09-07T04:09:16.006Z
 - **Sample:** 25 frontmatter-heavy notes
-- **Vault copy:** `<tmpdir>/seekstone-safety-PibB6i`
+- **Vault copy:** `<tmpdir>/seekstone-safety-VcxB61`
 - **Original (read-only, untouched):** `packages/harness/fixtures/vault`
 
 ## Summary
@@ -18,6 +18,7 @@
 | recoverable-delete | 0 | 0 | 25 | — n/a (unsupported by adapter) |
 | create-no-clobber | 0 | 0 | 25 | — n/a (unsupported by adapter) |
 | cas-conflict | 0 | 0 | 25 | — n/a (unsupported by adapter) |
+| undo-roundtrip | 0 | 0 | 25 | — n/a (unsupported by adapter) |
 
 > Skipped = the adapter does not expose the capability (delete/create/CAS), or the op does not apply to a note's shape. Skips are the capability matrix, not failures.
 

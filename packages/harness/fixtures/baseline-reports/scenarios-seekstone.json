@@ -1,10 +1,10 @@
 {
-  "snapshotDate": "2026-08-04T12:48:08.929Z",
+  "snapshotDate": "2026-09-07T04:01:34.122Z",
   "machine": {
     "platform": "darwin",
     "arch": "arm64",
-    "node": "v26.0.0",
-    "cpus": 10
+    "node": "v25.9.0",
+    "cpus": 16
   },
   "backend": {
     "name": "seekstone",
@@ -21,25 +21,25 @@
         {
           "op": "context_pack",
           "target": "phlogiston",
-          "payloadBytes": 2025,
-          "payloadTokens": 551
+          "payloadBytes": 2013,
+          "payloadTokens": 542
         }
       ],
       "calls": 1,
-      "totalPayloadBytes": 2025,
-      "totalPayloadTokens": 551,
+      "totalPayloadBytes": 2013,
+      "totalPayloadTokens": 542,
       "payloadStable": true,
       "latency": {
-        "coldMs": 43.844875,
+        "coldMs": 219.761708,
         "warm": {
           "n": 4,
-          "min": 36.110792,
-          "median": 36.141542,
-          "p90": 37.832333,
-          "p95": 37.832333,
-          "p99": 37.832333,
-          "max": 37.832333,
-          "mean": 36.694354249999996
+          "min": 210.825667,
+          "median": 210.994833,
+          "p90": 211.432916,
+          "p95": 211.432916,
+          "p99": 211.432916,
+          "max": 211.432916,
+          "mean": 211.1051455
         },
         "runs": 5
       }
@@ -52,25 +52,25 @@
         {
           "op": "context_pack",
           "target": "Roman Empire",
-          "payloadBytes": 4062,
-          "payloadTokens": 1115
+          "payloadBytes": 4060,
+          "payloadTokens": 1111
         }
       ],
       "calls": 1,
-      "totalPayloadBytes": 4062,
-      "totalPayloadTokens": 1115,
+      "totalPayloadBytes": 4060,
+      "totalPayloadTokens": 1111,
       "payloadStable": true,
       "latency": {
-        "coldMs": 28.543584,
+        "coldMs": 187.289417,
         "warm": {
           "n": 4,
-          "min": 25.555333,
-          "median": 25.774,
-          "p90": 27.435333,
-          "p95": 27.435333,
-          "p99": 27.435333,
-          "max": 27.435333,
-          "mean": 26.146489250000002
+          "min": 184.851625,
+          "median": 185.1475,
+          "p90": 186.265125,
+          "p95": 186.265125,
+          "p99": 186.265125,
+          "max": 186.265125,
+          "mean": 185.53775000000002
         },
         "runs": 5
       }
@@ -83,25 +83,25 @@
         {
           "op": "context_pack",
           "target": "church architecture nave",
-          "payloadBytes": 4066,
-          "payloadTokens": 1084
+          "payloadBytes": 4081,
+          "payloadTokens": 1100
         }
       ],
       "calls": 1,
-      "totalPayloadBytes": 4066,
-      "totalPayloadTokens": 1084,
+      "totalPayloadBytes": 4081,
+      "totalPayloadTokens": 1100,
       "payloadStable": true,
       "latency": {
-        "coldMs": 29.762208,
+        "coldMs": 155.962375,
         "warm": {
           "n": 4,
-          "min": 29.212542,
-          "median": 30.088291,
-          "p90": 30.765042,
-          "p95": 30.765042,
-          "p99": 30.765042,
-          "max": 30.765042,
-          "mean": 30.095062499999997
+          "min": 152.018,
+          "median": 153.352583,
+          "p90": 154.250667,
+          "p95": 154.250667,
+          "p99": 154.250667,
+          "max": 154.250667,
+          "mean": 153.41902100000001
         },
         "runs": 5
       }
@@ -114,25 +114,25 @@
         {
           "op": "context_pack",
           "target": "ancient-rome MOC",
-          "payloadBytes": 2019,
-          "payloadTokens": 630
+          "payloadBytes": 2017,
+          "payloadTokens": 632
         }
       ],
       "calls": 1,
-      "totalPayloadBytes": 2019,
-      "totalPayloadTokens": 630,
+      "totalPayloadBytes": 2017,
+      "totalPayloadTokens": 632,
       "payloadStable": true,
       "latency": {
-        "coldMs": 153.635208,
+        "coldMs": 117.1885,
         "warm": {
           "n": 4,
-          "min": 150.086375,
-          "median": 150.145208,
-          "p90": 153.436125,
-          "p95": 153.436125,
-          "p99": 153.436125,
-          "max": 153.436125,
-          "mean": 150.97620825
+          "min": 115.96925,
+          "median": 116.13225,
+          "p90": 117.423334,
+          "p95": 117.423334,
+          "p99": 117.423334,
+          "max": 117.423334,
+          "mean": 116.4916565
         },
         "runs": 5
       }

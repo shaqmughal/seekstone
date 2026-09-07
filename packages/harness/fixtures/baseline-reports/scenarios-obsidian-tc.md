@@ -1,18 +1,18 @@
 # Scenarios — obsidian-tc
 
 - **Adapter:** obsidian-tc (SQLite governance platform, direct tool calls, no Obsidian required)
-- **Snapshot:** 2026-08-04T12:55:22.545Z
+- **Snapshot:** 2026-09-07T04:09:00.421Z
 - **Runs per task:** 5 (cold = run 1; warm = runs 2..N)
-- **Machine:** darwin/arm64, Node v26.0.0, 10 logical CPUs
+- **Machine:** darwin/arm64, Node v25.9.0, 16 logical CPUs
 
 Each task is one question an agent must gather context to answer. Payload and tokens are summed across every call in the sequence — the context tax per answered question.
 
 | Task | Strategy | Calls | Payload | Tokens (approx) | Cold | Warm p50 |
 | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| phlogiston-theory | search-read | 4 | 29.4 KB | 7,410 | 3574.86 ms | 3369.20 ms |
-| roman-empire-extent | search-read | 4 | 485.8 KB | 120,619 | 3536.36 ms | 3403.19 ms |
-| church-architecture† | search-read | 1 | 56 B | 17 | 3410.17 ms | 3386.12 ms |
-| rome-hub-navigation | search-read | 3 | 3.6 KB | 1,581 | 3495.88 ms | 3502.31 ms |
+| phlogiston-theory | search-read | 4 | 29.6 KB | 7,542 | 2774.84 ms | 2672.73 ms |
+| roman-empire-extent | search-read | 4 | 490.9 KB | 122,816 | 2794.95 ms | 2775.53 ms |
+| church-architecture† | search-read | 1 | 56 B | 17 | 2619.04 ms | 2615.11 ms |
+| rome-hub-navigation | search-read | 3 | 3.6 KB | 1,581 | 2737.68 ms | 2728.80 ms |
 
 > † Search returned no hits — the task went unanswered. The payload is the cost of the failed attempt, not of an answer; a low number here is a retrieval failure, not a win.
 
@@ -26,10 +26,10 @@ Each task is one question an agent must gather context to answer. Payload and to
 
 | # | Call | Target | Payload | Tokens (approx) |
 | ---: | --- | --- | ---: | ---: |
-| 1 | `search` | `phlogiston` | 4.8 KB | 1,410 |
-| 2 | `read` | `Sources/Combustion.md` | 8.2 KB | 2,000 |
-| 3 | `read` | `Sources/Combustion.md` | 8.2 KB | 2,000 |
-| 4 | `read` | `Sources/Combustion.md` | 8.2 KB | 2,000 |
+| 1 | `search` | `phlogiston` | 4.8 KB | 1,422 |
+| 2 | `read` | `Sources/Combustion.md` | 8.3 KB | 2,040 |
+| 3 | `read` | `Sources/Combustion.md` | 8.3 KB | 2,040 |
+| 4 | `read` | `Sources/Combustion.md` | 8.3 KB | 2,040 |
 
 ### roman-empire-extent
 
@@ -37,10 +37,10 @@ Each task is one question an agent must gather context to answer. Payload and to
 
 | # | Call | Target | Payload | Tokens (approx) |
 | ---: | --- | --- | ---: | ---: |
-| 1 | `search` | `Roman Empire` | 7.7 KB | 2,326 |
-| 2 | `read` | `Reference/Empire.md` | 159.4 KB | 39,431 |
-| 3 | `read` | `Reference/Empire.md` | 159.4 KB | 39,431 |
-| 4 | `read` | `Reference/Empire.md` | 159.4 KB | 39,431 |
+| 1 | `search` | `Roman Empire` | 7.7 KB | 2,336 |
+| 2 | `read` | `Reference/Empire.md` | 161.0 KB | 40,160 |
+| 3 | `read` | `Reference/Empire.md` | 161.0 KB | 40,160 |
+| 4 | `read` | `Reference/Empire.md` | 161.0 KB | 40,160 |
 
 ### church-architecture
 
