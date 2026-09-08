@@ -1,6 +1,6 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`benchmark vault profile (golden): 'vault' > produces the committed deterministic shape 1`] = `
+exports[`benchmark vault profile (golden): vault > produces the committed deterministic shape 1`] = `
 {
   "counts": {
     "attachmentsByKind": {
@@ -286,7 +286,7 @@ exports[`benchmark vault profile (golden): 'vault' > produces the committed dete
 }
 `;
 
-exports[`benchmark vault profile (golden): 'vault-1k' > produces the committed deterministic shape 1`] = `
+exports[`benchmark vault profile (golden): vault-1k > produces the committed deterministic shape 1`] = `
 {
   "counts": {
     "attachmentsByKind": {
@@ -572,7 +572,7 @@ exports[`benchmark vault profile (golden): 'vault-1k' > produces the committed d
 }
 `;
 
-exports[`benchmark vault profile (golden): 'vault-5k' > produces the committed deterministic shape 1`] = `
+exports[`benchmark vault profile (golden): vault-5k > produces the committed deterministic shape 1`] = `
 {
   "counts": {
     "attachmentsByKind": {
