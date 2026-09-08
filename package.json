@@ -13,7 +13,7 @@
   "scripts": {
     "build": "npm run -ws --if-present build",
     "test": "npm run -ws --if-present test && npm run test:scripts",
-    "test:scripts": "vitest run scripts/shard.test.ts",
+    "test:scripts": "vitest run scripts/",
     "lint": "biome check .",
     "format": "biome format --write .",
     "harness": "npm run -w @seekstone/harness start --",
@@ -22,7 +22,9 @@
     "conformance": "node scripts/mcp-conformance.mjs",
     "check:registries": "node scripts/check-registries-tools.mjs",
     "check:docs": "node scripts/check-docs-sync.mjs",
-    "version-packages": "changeset version && node scripts/sync-server-json.mjs && biome format --write .",
+    "build:benchmarks": "node scripts/build-benchmarks-json.mjs",
+    "check:benchmarks": "node scripts/build-benchmarks-json.mjs --check",
+    "version-packages": "changeset version && node scripts/sync-server-json.mjs && node scripts/build-benchmarks-json.mjs && biome format --write .",
     "release": "changeset publish"
   },
   "overrides": {

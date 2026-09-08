@@ -73,6 +73,12 @@ npm run harness -- retrieval --model potion-retrieval-32M,potion-base-8M --runs 
 ```
 
 Committed baseline outputs live in [`fixtures/baseline-reports/`](./fixtures/baseline-reports).
+
+After any re-baseline, regenerate the published numbers: `npm run build:benchmarks`
+rewrites the repo-root `benchmarks.json` from these reports (with per-row provenance),
+and `npm run check:docs` then tells you exactly which README / `llms.txt` figures
+have to change to match. Both run in CI, so a stale baseline or a hand-edited
+number cannot merge.
 **Payload bytes/tokens are deterministic** (they don't depend on the machine) and are the
 headline "context tax" metric; latency numbers are machine-specific, so reproduce the
 *methodology*, not the exact milliseconds. The retrieval baseline follows the same split:

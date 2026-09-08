@@ -75,9 +75,17 @@ jobs:
         if: matrix.os == 'ubuntu-latest'
         run: node scripts/check-registries-tools.mjs
 
+      # Guard: benchmarks.json (the single source of truth for every published
+      # benchmark number) must be regenerable byte-for-byte from the committed
+      # harness baselines + code sources of truth. Runs once (Linux).
+      - name: benchmarks.json sync
+        if: matrix.os == 'ubuntu-latest'
+        run: node scripts/build-benchmarks-json.mjs --check
+
       # Guard: docs must not drift from the code — tool counts across every doc
-      # surface, retired marketing claims (575× etc.), and the env-var tables
-      # are all checked against dispatch.ts / server source. Runs once (Linux).
+      # surface, retired marketing claims (575× etc.), the env-var tables, and
+      # every headline benchmark figure (vs benchmarks.json) are all checked
+      # against their sources of truth. Runs once (Linux).
       - name: docs sync
         if: matrix.os == 'ubuntu-latest'
         run: node scripts/check-docs-sync.mjs

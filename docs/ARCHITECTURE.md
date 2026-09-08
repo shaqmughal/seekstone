@@ -170,7 +170,7 @@ flowchart TD
    under `SEEKSTONE_CACHE_DIR` (default `~/.cache/seekstone`) so restarts
    reload in milliseconds instead of re-embedding. Retrieval is a two-stage
    pipeline: a deliberate **brute-force cosine scan** (no ANN index —
-   exhaustive over every chunk, ~14 ms warm at 10k notes) with max-pooling
+   exhaustive over every chunk, ~13 ms warm at 10k notes) with max-pooling
    per note picks the top-50; then a **MaxSim late-interaction rerank**
    (`rerank.ts`, SHA-314) re-scores each candidate's winning chunk with
    token-level max-cosines. (A 1-hop graph-expansion stage, `expand.ts`,
@@ -442,4 +442,8 @@ are the receipts.
 The list is mirrored in `dispatch.ts` (`HANDLED_TOOLS`) and the `ListTools`
 schemas in `tool-list.ts`; `docs/REGISTRIES.md` carries the same count and CI
 guards (`check-registries-tools.mjs`, `check-docs-sync.mjs`) keep the counts in
-sync across docs.
+sync across docs. Benchmark figures follow the same rule: `benchmarks.json` at
+the repo root is generated from the committed harness baselines
+(`scripts/build-benchmarks-json.mjs`, CI-checked for staleness) and
+`check-docs-sync.mjs` asserts every headline number in the README, `llms.txt`
+and the npm surfaces equals it — the site vendors the same file.
