@@ -5,7 +5,7 @@ import { parseFrontmatter } from '@seekstone/core/frontmatter';
 import { walkVault } from '@seekstone/core/walk';
 import MiniSearch from 'minisearch';
 import type { BacklinkRef } from '../context.js';
-import { resolveLink } from './resolve.js';
+import { buildResolveMaps, resolveLink } from './resolve.js';
 import type { IndexedNote } from './types.js';
 
 export type VaultIndex = MiniSearch<IndexedNote>;
@@ -79,10 +79,11 @@ export async function buildIndex(vaultRoot: string): Promise<BuildResult> {
 
 function buildBacklinks(notes: Map<string, IndexedNote>): Map<string, BacklinkRef[]> {
   const result = new Map<string, BacklinkRef[]>();
+  const resolveMaps = buildResolveMaps(notes);
   for (const [srcPath, doc] of notes) {
     const seen = new Set<string>();
     for (const link of extractLinksWithLines(doc.raw)) {
-      const resolved = resolveLink(link.target, notes);
+      const resolved = resolveLink(link.target, notes, resolveMaps);
       if (resolved === undefined) continue;
       // De-duplicate: one entry per (source, resolved-target) pair
       const dedupeKey = `${srcPath}\0${resolved}`;
