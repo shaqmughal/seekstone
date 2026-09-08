@@ -307,6 +307,9 @@ vi.mock('./competitors.js', () => ({
 describe('runRetrievalEval --competitors', () => {
   let vault: string;
   let summary: RetrievalSummary;
+  // Captured in beforeAll — vitest clears mock state before each test, so the
+  // spy's count can't be read from a test body.
+  let stopCallsAfterRun: number;
 
   beforeAll(async () => {
     vault = await mkdtemp(join(tmpdir(), 'seekstone-retrieval-comp-'));
@@ -338,6 +341,7 @@ describe('runRetrievalEval --competitors', () => {
       competitors: true,
       loadEmbedder: async (dir) => stubEmbedder(basename(dir)),
     });
+    stopCallsAfterRun = competitorStop.mock.calls.length;
   });
   afterAll(async () => {
     await rm(vault, { recursive: true, force: true });
@@ -366,7 +370,7 @@ describe('runRetrievalEval --competitors', () => {
   });
 
   it('stops every competitor subprocess after the run', () => {
-    expect(competitorStop).toHaveBeenCalledTimes(1);
+    expect(stopCallsAfterRun).toBe(1);
   });
 });
 
