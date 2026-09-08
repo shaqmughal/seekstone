@@ -1,0 +1,1355 @@
+{
+  "schemaVersion": 1,
+  "generatedBy": "scripts/build-benchmarks-json.mjs",
+  "fixture": {
+    "version": 2,
+    "issue": "SHA-322",
+    "noteCount": 10000,
+    "vault": "packages/harness/fixtures/vault",
+    "commit": "7da298e8",
+    "machine": {
+      "platform": "darwin",
+      "arch": "arm64",
+      "node": "v25.9.0",
+      "cpus": 16
+    }
+  },
+  "release": {
+    "version": "0.17.2",
+    "source": "packages/server/package.json#version"
+  },
+  "tools": {
+    "total": 21,
+    "read": 11,
+    "write": 10,
+    "source": "packages/server/src/dispatch.ts#HANDLED_TOOLS,WRITE_TOOLS"
+  },
+  "guarantees": {
+    "count": 10,
+    "source": "docs/WRITE-SAFETY.md \"### N.\" headings"
+  },
+  "scaling": {
+    "sizes": [
+      1000,
+      5000,
+      10000
+    ],
+    "runs": 20,
+    "queries": 4,
+    "method": "warmMs = mean over queries of per-query warm median; payload = mean over queries of payloadBytesMean (packages/harness/src/bench/scaling.ts)",
+    "adapters": {
+      "seekstone": {
+        "label": "Seekstone",
+        "architecture": "in-process index",
+        "kind": "seekstone",
+        "warmMs": [
+          1,
+          2.7,
+          5.2
+        ],
+        "payloadBytes": [
+          1636,
+          1807,
+          2085
+        ],
+        "payloadTokens": [
+          463,
+          506,
+          578
+        ],
+        "vsSeekstone10k": {
+          "exact": 1,
+          "display": 1
+        },
+        "queries10k": [
+          {
+            "id": "single-term",
+            "query": "church",
+            "warmMedianMs": 1.33,
+            "payloadBytes": 1867,
+            "payloadTokens": 507
+          },
+          {
+            "id": "multi-term",
+            "query": "Roman Empire",
+            "warmMedianMs": 2.98,
+            "payloadBytes": 2145,
+            "payloadTokens": 602
+          },
+          {
+            "id": "phrase",
+            "query": "the capital of",
+            "warmMedianMs": 15.39,
+            "payloadBytes": 1980,
+            "payloadTokens": 565
+          },
+          {
+            "id": "rare-term",
+            "query": "phlogiston",
+            "warmMedianMs": 1.04,
+            "payloadBytes": 2347,
+            "payloadTokens": 637
+          }
+        ],
+        "worst10k": {
+          "query": "phlogiston",
+          "bytes": 2347,
+          "tokens": 637
+        },
+        "provenance": [
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-seekstone.json",
+            "snapshotDate": "2026-09-07T02:57:44.518Z",
+            "fixtureVersion": 2,
+            "size": 1000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-seekstone.json",
+            "snapshotDate": "2026-09-07T03:09:11.950Z",
+            "fixtureVersion": 2,
+            "size": 5000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-seekstone.json",
+            "snapshotDate": "2026-09-07T03:37:37.557Z",
+            "fixtureVersion": 2,
+            "size": 10000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          }
+        ]
+      },
+      "fs": {
+        "label": "fs (harness baseline)",
+        "architecture": "filesystem-direct baseline",
+        "kind": "baseline",
+        "warmMs": [
+          1.1,
+          2.7,
+          5.5
+        ],
+        "payloadBytes": [
+          2105,
+          2380,
+          2811
+        ],
+        "payloadTokens": [
+          584,
+          652,
+          756
+        ],
+        "vsSeekstone10k": {
+          "exact": 1.1,
+          "display": 1
+        },
+        "queries10k": [
+          {
+            "id": "single-term",
+            "query": "church",
+            "warmMedianMs": 1.4,
+            "payloadBytes": 2850,
+            "payloadTokens": 753
+          },
+          {
+            "id": "multi-term",
+            "query": "Roman Empire",
+            "warmMedianMs": 3.29,
+            "payloadBytes": 2807,
+            "payloadTokens": 755
+          },
+          {
+            "id": "phrase",
+            "query": "the capital of",
+            "warmMedianMs": 15.93,
+            "payloadBytes": 2799,
+            "payloadTokens": 764
+          },
+          {
+            "id": "rare-term",
+            "query": "phlogiston",
+            "warmMedianMs": 1.21,
+            "payloadBytes": 2788,
+            "payloadTokens": 751
+          }
+        ],
+        "worst10k": {
+          "query": "church",
+          "bytes": 2850,
+          "tokens": 753
+        },
+        "provenance": [
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-fs.json",
+            "snapshotDate": "2026-09-07T02:57:45.798Z",
+            "fixtureVersion": 2,
+            "size": 1000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-fs.json",
+            "snapshotDate": "2026-09-07T03:09:15.741Z",
+            "fixtureVersion": 2,
+            "size": 5000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-fs.json",
+            "snapshotDate": "2026-09-07T03:37:45.208Z",
+            "fixtureVersion": 2,
+            "size": 10000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          }
+        ]
+      },
+      "mcpvault": {
+        "label": "mcpvault",
+        "architecture": "fs-direct subprocess",
+        "kind": "competitor",
+        "warmMs": [
+          89,
+          435.5,
+          897.1
+        ],
+        "payloadBytes": [
+          1758,
+          1982,
+          2265
+        ],
+        "payloadTokens": [
+          564,
+          631,
+          706
+        ],
+        "vsSeekstone10k": {
+          "exact": 173,
+          "display": 173
+        },
+        "queries10k": [
+          {
+            "id": "single-term",
+            "query": "church",
+            "warmMedianMs": 786.14,
+            "payloadBytes": 2371,
+            "payloadTokens": 714
+          },
+          {
+            "id": "multi-term",
+            "query": "Roman Empire",
+            "warmMedianMs": 992.63,
+            "payloadBytes": 2299,
+            "payloadTokens": 711
+          },
+          {
+            "id": "phrase",
+            "query": "the capital of",
+            "warmMedianMs": 1028.83,
+            "payloadBytes": 2259,
+            "payloadTokens": 748
+          },
+          {
+            "id": "rare-term",
+            "query": "phlogiston",
+            "warmMedianMs": 780.77,
+            "payloadBytes": 2129,
+            "payloadTokens": 650
+          }
+        ],
+        "worst10k": {
+          "query": "church",
+          "bytes": 2371,
+          "tokens": 714
+        },
+        "provenance": [
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-mcpvault.json",
+            "snapshotDate": "2026-09-07T02:57:55.652Z",
+            "fixtureVersion": 2,
+            "size": 1000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-mcpvault.json",
+            "snapshotDate": "2026-09-07T03:13:30.536Z",
+            "fixtureVersion": 2,
+            "size": 5000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-mcpvault.json",
+            "snapshotDate": "2026-09-07T03:38:59.283Z",
+            "fixtureVersion": 2,
+            "size": 10000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          }
+        ]
+      },
+      "obsidian-mcp-pro": {
+        "label": "obsidian-mcp-pro",
+        "architecture": "fs-direct subprocess",
+        "kind": "competitor",
+        "warmMs": [
+          46.2,
+          213.4,
+          430.2
+        ],
+        "payloadBytes": [
+          25626,
+          86354,
+          117038
+        ],
+        "payloadTokens": [
+          6049,
+          20338,
+          27566
+        ],
+        "vsSeekstone10k": {
+          "exact": 83,
+          "display": 83
+        },
+        "queries10k": [
+          {
+            "id": "single-term",
+            "query": "church",
+            "warmMedianMs": 425.49,
+            "payloadBytes": 410205,
+            "payloadTokens": 96442
+          },
+          {
+            "id": "multi-term",
+            "query": "Roman Empire",
+            "warmMedianMs": 435.19,
+            "payloadBytes": 30453,
+            "payloadTokens": 7252
+          },
+          {
+            "id": "phrase",
+            "query": "the capital of",
+            "warmMedianMs": 458.07,
+            "payloadBytes": 15759,
+            "payloadTokens": 3785
+          },
+          {
+            "id": "rare-term",
+            "query": "phlogiston",
+            "warmMedianMs": 402.07,
+            "payloadBytes": 11735,
+            "payloadTokens": 2786
+          }
+        ],
+        "worst10k": {
+          "query": "church",
+          "bytes": 410205,
+          "tokens": 96442
+        },
+        "provenance": [
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-obsidian-mcp-pro.json",
+            "snapshotDate": "2026-06-26T02:52:43.663Z",
+            "fixtureVersion": 1,
+            "size": 1000,
+            "runs": 5,
+            "capture": "auto",
+            "commit": "0af29c38"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-mcp-pro.json",
+            "snapshotDate": "2026-06-26T02:52:52.962Z",
+            "fixtureVersion": 1,
+            "size": 5000,
+            "runs": 5,
+            "capture": "auto",
+            "commit": "0af29c38"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-mcp-pro.json",
+            "snapshotDate": "2026-06-26T02:53:12.858Z",
+            "fixtureVersion": 1,
+            "size": 10000,
+            "runs": 5,
+            "capture": "auto",
+            "commit": "0af29c38"
+          }
+        ]
+      },
+      "obsidian-mcp": {
+        "label": "obsidian-mcp",
+        "architecture": "fs-direct subprocess",
+        "kind": "competitor",
+        "warmMs": [
+          81.6,
+          404.8,
+          811.1
+        ],
+        "payloadBytes": [
+          18582,
+          107270,
+          206121
+        ],
+        "payloadTokens": [
+          5001,
+          28659,
+          55161
+        ],
+        "vsSeekstone10k": {
+          "exact": 156.4,
+          "display": 156
+        },
+        "queries10k": [
+          {
+            "id": "single-term",
+            "query": "church",
+            "warmMedianMs": 825.42,
+            "payloadBytes": 751410,
+            "payloadTokens": 199850
+          },
+          {
+            "id": "multi-term",
+            "query": "Roman Empire",
+            "warmMedianMs": 803.75,
+            "payloadBytes": 24146,
+            "payloadTokens": 6518
+          },
+          {
+            "id": "phrase",
+            "query": "the capital of",
+            "warmMedianMs": 838.69,
+            "payloadBytes": 46176,
+            "payloadTokens": 13544
+          },
+          {
+            "id": "rare-term",
+            "query": "phlogiston",
+            "warmMedianMs": 776.59,
+            "payloadBytes": 2750,
+            "payloadTokens": 730
+          }
+        ],
+        "worst10k": {
+          "query": "church",
+          "bytes": 751410,
+          "tokens": 199850
+        },
+        "provenance": [
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-obsidian-mcp.json",
+            "snapshotDate": "2026-06-26T02:52:46.592Z",
+            "fixtureVersion": 1,
+            "size": 1000,
+            "runs": 5,
+            "capture": "auto",
+            "commit": "0af29c38"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-mcp.json",
+            "snapshotDate": "2026-06-26T02:53:02.478Z",
+            "fixtureVersion": 1,
+            "size": 5000,
+            "runs": 5,
+            "capture": "auto",
+            "commit": "0af29c38"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-mcp.json",
+            "snapshotDate": "2026-06-26T02:53:30.582Z",
+            "fixtureVersion": 1,
+            "size": 10000,
+            "runs": 5,
+            "capture": "auto",
+            "commit": "0af29c38"
+          }
+        ]
+      },
+      "obsidian-mcp-rs": {
+        "label": "obsidian-mcp-rs",
+        "architecture": "fs-direct, per-query scan",
+        "kind": "competitor",
+        "warmMs": [
+          5.8,
+          17.9,
+          35.2
+        ],
+        "payloadBytes": [
+          5543,
+          5911,
+          6354
+        ],
+        "payloadTokens": [
+          1569,
+          1663,
+          1791
+        ],
+        "vsSeekstone10k": {
+          "exact": 6.8,
+          "display": 7
+        },
+        "queries10k": [
+          {
+            "id": "single-term",
+            "query": "church",
+            "warmMedianMs": 32.2,
+            "payloadBytes": 7316,
+            "payloadTokens": 1962
+          },
+          {
+            "id": "multi-term",
+            "query": "Roman Empire",
+            "warmMedianMs": 34.63,
+            "payloadBytes": 7634,
+            "payloadTokens": 2178
+          },
+          {
+            "id": "phrase",
+            "query": "the capital of",
+            "warmMedianMs": 49.36,
+            "payloadBytes": 7692,
+            "payloadTokens": 2260
+          },
+          {
+            "id": "rare-term",
+            "query": "phlogiston",
+            "warmMedianMs": 24.68,
+            "payloadBytes": 2773,
+            "payloadTokens": 762
+          }
+        ],
+        "worst10k": {
+          "query": "the capital of",
+          "bytes": 7692,
+          "tokens": 2260
+        },
+        "provenance": [
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-obsidian-mcp-rs.json",
+            "snapshotDate": "2026-09-07T02:57:57.430Z",
+            "fixtureVersion": 2,
+            "size": 1000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-mcp-rs.json",
+            "snapshotDate": "2026-09-07T03:13:33.635Z",
+            "fixtureVersion": 2,
+            "size": 5000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-mcp-rs.json",
+            "snapshotDate": "2026-09-07T03:39:03.903Z",
+            "fixtureVersion": 2,
+            "size": 10000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          }
+        ]
+      },
+      "obsidian-tc": {
+        "label": "obsidian-tc",
+        "architecture": "SQLite platform",
+        "kind": "competitor",
+        "warmMs": [
+          262.8,
+          1253.4,
+          2666.5
+        ],
+        "payloadBytes": [
+          4757,
+          6936,
+          7420
+        ],
+        "payloadTokens": [
+          1391,
+          2023,
+          2143
+        ],
+        "vsSeekstone10k": {
+          "exact": 514.3,
+          "display": 514
+        },
+        "queries10k": [
+          {
+            "id": "single-term",
+            "query": "church",
+            "warmMedianMs": 2652.42,
+            "payloadBytes": 8660,
+            "payloadTokens": 2372
+          },
+          {
+            "id": "multi-term",
+            "query": "Roman Empire",
+            "warmMedianMs": 2684.78,
+            "payloadBytes": 7918,
+            "payloadTokens": 2336
+          },
+          {
+            "id": "phrase",
+            "query": "the capital of",
+            "warmMedianMs": 2683.77,
+            "payloadBytes": 8138,
+            "payloadTokens": 2440
+          },
+          {
+            "id": "rare-term",
+            "query": "phlogiston",
+            "warmMedianMs": 2645.01,
+            "payloadBytes": 4965,
+            "payloadTokens": 1422
+          }
+        ],
+        "worst10k": {
+          "query": "church",
+          "bytes": 8660,
+          "tokens": 2372
+        },
+        "provenance": [
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-obsidian-tc.json",
+            "snapshotDate": "2026-09-07T02:58:22.307Z",
+            "fixtureVersion": 2,
+            "size": 1000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-tc.json",
+            "snapshotDate": "2026-09-07T03:25:44.184Z",
+            "fixtureVersion": 2,
+            "size": 5000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-tc.json",
+            "snapshotDate": "2026-09-07T03:42:41.035Z",
+            "fixtureVersion": 2,
+            "size": 10000,
+            "runs": 20,
+            "capture": "auto",
+            "commit": "7da298e8"
+          }
+        ]
+      },
+      "rest": {
+        "label": "Local REST API (direct)",
+        "architecture": "REST API",
+        "kind": "rest-baseline",
+        "warmMs": [
+          59.8,
+          275.9,
+          574.8
+        ],
+        "payloadBytes": [
+          6785901,
+          31323564,
+          65616130
+        ],
+        "payloadTokens": [
+          1740156,
+          8009888,
+          16781174
+        ],
+        "vsSeekstone10k": {
+          "exact": 110.9,
+          "display": 111
+        },
+        "queries10k": [
+          {
+            "id": "single-term",
+            "query": "church",
+            "warmMedianMs": 126.05,
+            "payloadBytes": 3326971,
+            "payloadTokens": 872230
+          },
+          {
+            "id": "multi-term",
+            "query": "Roman Empire",
+            "warmMedianMs": 160.74,
+            "payloadBytes": 1838777,
+            "payloadTokens": 478372
+          },
+          {
+            "id": "phrase",
+            "query": "the capital of",
+            "warmMedianMs": 1926.94,
+            "payloadBytes": 257286637,
+            "payloadTokens": 65770953
+          },
+          {
+            "id": "rare-term",
+            "query": "phlogiston",
+            "warmMedianMs": 85.5,
+            "payloadBytes": 12134,
+            "payloadTokens": 3141
+          }
+        ],
+        "worst10k": {
+          "query": "the capital of",
+          "bytes": 257286637,
+          "tokens": 65770953
+        },
+        "provenance": [
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-rest.json",
+            "snapshotDate": "2026-06-26T03:25:45.985Z",
+            "fixtureVersion": 1,
+            "size": 1000,
+            "runs": 20,
+            "capture": "manual",
+            "commit": "0af29c38"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-rest.json",
+            "snapshotDate": "2026-06-26T03:11:51.566Z",
+            "fixtureVersion": 1,
+            "size": 5000,
+            "runs": 20,
+            "capture": "manual",
+            "commit": "0af29c38"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-rest.json",
+            "snapshotDate": "2026-06-26T02:30:24.313Z",
+            "fixtureVersion": 1,
+            "size": 10000,
+            "runs": 20,
+            "capture": "manual",
+            "commit": "0af29c38"
+          }
+        ]
+      },
+      "obsidian-mcp-server": {
+        "label": "obsidian-mcp-server",
+        "architecture": "REST API",
+        "kind": "competitor",
+        "warmMs": [
+          81.8,
+          355.8,
+          731.8
+        ],
+        "payloadBytes": [
+          56612,
+          48265,
+          47729
+        ],
+        "payloadTokens": [
+          16403,
+          14635,
+          14643
+        ],
+        "vsSeekstone10k": {
+          "exact": 141.2,
+          "display": 141
+        },
+        "queries10k": [
+          {
+            "id": "single-term",
+            "query": "church",
+            "warmMedianMs": 138.11,
+            "payloadBytes": 14435,
+            "payloadTokens": 4521
+          },
+          {
+            "id": "multi-term",
+            "query": "Roman Empire",
+            "warmMedianMs": 183.47,
+            "payloadBytes": 35478,
+            "payloadTokens": 9716
+          },
+          {
+            "id": "phrase",
+            "query": "the capital of",
+            "warmMedianMs": 2515.37,
+            "payloadBytes": 133187,
+            "payloadTokens": 42373
+          },
+          {
+            "id": "rare-term",
+            "query": "phlogiston",
+            "warmMedianMs": 90.39,
+            "payloadBytes": 7814,
+            "payloadTokens": 1962
+          }
+        ],
+        "worst10k": {
+          "query": "the capital of",
+          "bytes": 133187,
+          "tokens": 42373
+        },
+        "provenance": [
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-obsidian-mcp-server.json",
+            "snapshotDate": "2026-06-26T03:26:13.872Z",
+            "fixtureVersion": 1,
+            "size": 1000,
+            "runs": 20,
+            "capture": "manual",
+            "commit": "0af29c38"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-obsidian-mcp-server.json",
+            "snapshotDate": "2026-06-26T03:13:48.416Z",
+            "fixtureVersion": 1,
+            "size": 5000,
+            "runs": 20,
+            "capture": "manual",
+            "commit": "0af29c38"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-obsidian-mcp-server.json",
+            "snapshotDate": "2026-06-26T02:37:46.945Z",
+            "fixtureVersion": 1,
+            "size": 10000,
+            "runs": 20,
+            "capture": "manual",
+            "commit": "0af29c38"
+          }
+        ]
+      },
+      "mcp-obsidian": {
+        "label": "mcp-obsidian",
+        "architecture": "REST API",
+        "kind": "competitor",
+        "warmMs": [
+          163.6,
+          740,
+          1550.4
+        ],
+        "payloadBytes": [
+          10254323,
+          47322263,
+          99144477
+        ],
+        "payloadTokens": [
+          2586660,
+          11893961,
+          24943983
+        ],
+        "vsSeekstone10k": {
+          "exact": 299,
+          "display": 299
+        },
+        "queries10k": [
+          {
+            "id": "single-term",
+            "query": "church",
+            "warmMedianMs": 173.47,
+            "payloadBytes": 4896595,
+            "payloadTokens": 1260114
+          },
+          {
+            "id": "multi-term",
+            "query": "Roman Empire",
+            "warmMedianMs": 207.74,
+            "payloadBytes": 2743732,
+            "payloadTokens": 703210
+          },
+          {
+            "id": "phrase",
+            "query": "the capital of",
+            "warmMedianMs": 5720.18,
+            "payloadBytes": 388919807,
+            "payloadTokens": 97808241
+          },
+          {
+            "id": "rare-term",
+            "query": "phlogiston",
+            "warmMedianMs": 100.03,
+            "payloadBytes": 17772,
+            "payloadTokens": 4365
+          }
+        ],
+        "worst10k": {
+          "query": "the capital of",
+          "bytes": 388919807,
+          "tokens": 97808241
+        },
+        "provenance": [
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/1000/benchmark-mcp-obsidian.json",
+            "snapshotDate": "2026-06-26T03:26:05.561Z",
+            "fixtureVersion": 1,
+            "size": 1000,
+            "runs": 20,
+            "capture": "manual",
+            "commit": "0af29c38"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/5000/benchmark-mcp-obsidian.json",
+            "snapshotDate": "2026-06-26T03:13:17.585Z",
+            "fixtureVersion": 1,
+            "size": 5000,
+            "runs": 20,
+            "capture": "manual",
+            "commit": "0af29c38"
+          },
+          {
+            "report": "packages/harness/fixtures/baseline-reports/scaling/10000/benchmark-mcp-obsidian.json",
+            "snapshotDate": "2026-06-26T02:36:45.598Z",
+            "fixtureVersion": 1,
+            "size": 10000,
+            "runs": 20,
+            "capture": "manual",
+            "commit": "0af29c38"
+          }
+        ]
+      }
+    }
+  },
+  "headline": {
+    "warmMs10k": 5.2,
+    "semanticWarmP50Ms10k": {
+      "value": 25.76,
+      "display": 26,
+      "condition": "shipped-hybrid:potion-base-8M",
+      "source": "retrieval-eval.json (quiet machine)"
+    },
+    "semanticScanP50Ms10k": {
+      "value": 12.64,
+      "display": 13,
+      "condition": "semantic:potion-base-8M",
+      "source": "retrieval-eval.json (quiet machine)"
+    },
+    "payloadBytes10k": 2085,
+    "payloadTokens10k": 578,
+    "largestMeanPayload10k": {
+      "adapter": "mcp-obsidian",
+      "bytes": 99144477
+    },
+    "contextTax": {
+      "exact": 47557,
+      "display": 47000,
+      "rule": "floor to thousands"
+    },
+    "slowest": {
+      "adapter": "obsidian-tc",
+      "warmMs": 2666.5,
+      "exact": 514.3,
+      "display": 514
+    },
+    "fastestCompetitor": {
+      "adapter": "obsidian-mcp-rs",
+      "warmMs": 35.2,
+      "exact": 6.8,
+      "display": 7
+    },
+    "restProxyRange": {
+      "adapters": [
+        "rest",
+        "obsidian-mcp-server",
+        "mcp-obsidian"
+      ],
+      "exact": {
+        "min": 111,
+        "max": 299
+      },
+      "display": {
+        "min": 110,
+        "max": 300
+      },
+      "rule": "round to tens"
+    },
+    "worstQuery": {
+      "adapter": "mcp-obsidian",
+      "query": "the capital of",
+      "bytes": 388919807,
+      "tokens": 97808241,
+      "vsContextWindow": {
+        "window": 200000,
+        "display": 489
+      }
+    }
+  },
+  "retrieval": {
+    "querySet": {
+      "total": 150,
+      "semantic": 90,
+      "lexical": 30,
+      "topical": 30,
+      "dev": 90,
+      "holdout": 60
+    },
+    "latencyRule": "seekstone rows: hit@5 asserted equal across both runs, warm latency from retrieval-eval.json (quiet machine); competitor rows, index timings and gateV2 from retrieval-eval-competitors.json (the head-to-head run)",
+    "conditions": {
+      "lexical": {
+        "label": "Keyword search (lexical only)",
+        "overallHit5": 34.7,
+        "holdoutHit5": 30,
+        "semanticSubsetHit5": 17.8,
+        "lexicalSubsetHit5": 100,
+        "topicalSubsetHit5": 20,
+        "warmP50Ms": 45.98,
+        "warmP95Ms": 233.86,
+        "payloadBytes": 2085,
+        "payloadBytesSource": "scaling seekstone @10k",
+        "provenance": {
+          "quality": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval-competitors.json",
+            "snapshotDate": "2026-09-06T23:54:32.553Z",
+            "fixtureVersion": 2,
+            "runs": 5,
+            "commit": "7da298e8"
+          },
+          "latency": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval.json",
+            "snapshotDate": "2026-09-07T02:57:42.226Z",
+            "fixtureVersion": 2,
+            "runs": 20,
+            "commit": "7da298e8"
+          }
+        }
+      },
+      "semantic:potion-retrieval-32M": {
+        "label": "semantic:potion-retrieval-32M",
+        "overallHit5": 82,
+        "holdoutHit5": 86.7,
+        "semanticSubsetHit5": 81.1,
+        "lexicalSubsetHit5": 100,
+        "topicalSubsetHit5": 66.7,
+        "warmP50Ms": 21.19,
+        "warmP95Ms": 22.41,
+        "payloadBytes": 2085,
+        "payloadBytesSource": "scaling seekstone @10k",
+        "provenance": {
+          "quality": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval-competitors.json",
+            "snapshotDate": "2026-09-06T23:54:32.553Z",
+            "fixtureVersion": 2,
+            "runs": 5,
+            "commit": "7da298e8"
+          },
+          "latency": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval.json",
+            "snapshotDate": "2026-09-07T02:57:42.226Z",
+            "fixtureVersion": 2,
+            "runs": 20,
+            "commit": "7da298e8"
+          }
+        }
+      },
+      "hybrid-rrf:potion-retrieval-32M": {
+        "label": "hybrid-rrf:potion-retrieval-32M",
+        "overallHit5": 54,
+        "holdoutHit5": 55,
+        "semanticSubsetHit5": 43.3,
+        "lexicalSubsetHit5": 100,
+        "topicalSubsetHit5": 40,
+        "warmP50Ms": 68,
+        "warmP95Ms": 252.91,
+        "payloadBytes": 2085,
+        "payloadBytesSource": "scaling seekstone @10k",
+        "provenance": {
+          "quality": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval-competitors.json",
+            "snapshotDate": "2026-09-06T23:54:32.553Z",
+            "fixtureVersion": 2,
+            "runs": 5,
+            "commit": "7da298e8"
+          },
+          "latency": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval.json",
+            "snapshotDate": "2026-09-07T02:57:42.226Z",
+            "fixtureVersion": 2,
+            "runs": 20,
+            "commit": "7da298e8"
+          }
+        }
+      },
+      "semantic:potion-base-8M": {
+        "label": "Raw semantic scan, 8M model (no rerank)",
+        "overallHit5": 71.3,
+        "holdoutHit5": 76.7,
+        "semanticSubsetHit5": 67.8,
+        "lexicalSubsetHit5": 90,
+        "topicalSubsetHit5": 63.3,
+        "warmP50Ms": 12.64,
+        "warmP95Ms": 13.73,
+        "payloadBytes": 2085,
+        "payloadBytesSource": "scaling seekstone @10k",
+        "provenance": {
+          "quality": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval-competitors.json",
+            "snapshotDate": "2026-09-06T23:54:32.553Z",
+            "fixtureVersion": 2,
+            "runs": 5,
+            "commit": "7da298e8"
+          },
+          "latency": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval.json",
+            "snapshotDate": "2026-09-07T02:57:42.226Z",
+            "fixtureVersion": 2,
+            "runs": 20,
+            "commit": "7da298e8"
+          }
+        }
+      },
+      "hybrid-rrf:potion-base-8M": {
+        "label": "hybrid-rrf:potion-base-8M",
+        "overallHit5": 50.7,
+        "holdoutHit5": 53.3,
+        "semanticSubsetHit5": 41.1,
+        "lexicalSubsetHit5": 100,
+        "topicalSubsetHit5": 30,
+        "warmP50Ms": 58.64,
+        "warmP95Ms": 245.59,
+        "payloadBytes": 2085,
+        "payloadBytesSource": "scaling seekstone @10k",
+        "provenance": {
+          "quality": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval-competitors.json",
+            "snapshotDate": "2026-09-06T23:54:32.553Z",
+            "fixtureVersion": 2,
+            "runs": 5,
+            "commit": "7da298e8"
+          },
+          "latency": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval.json",
+            "snapshotDate": "2026-09-07T02:57:42.226Z",
+            "fixtureVersion": 2,
+            "runs": 20,
+            "commit": "7da298e8"
+          }
+        }
+      },
+      "shipped-semantic:potion-retrieval-32M": {
+        "label": "shipped-semantic:potion-retrieval-32M",
+        "overallHit5": 86.7,
+        "holdoutHit5": 86.7,
+        "semanticSubsetHit5": 92.2,
+        "lexicalSubsetHit5": 100,
+        "topicalSubsetHit5": 56.7,
+        "warmP50Ms": 50.74,
+        "warmP95Ms": 63.58,
+        "payloadBytes": 2085,
+        "payloadBytesSource": "scaling seekstone @10k",
+        "indexBuildMs": 25025,
+        "indexBuildMsQuietRun": 24439,
+        "provenance": {
+          "quality": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval-competitors.json",
+            "snapshotDate": "2026-09-06T23:54:32.553Z",
+            "fixtureVersion": 2,
+            "runs": 5,
+            "commit": "7da298e8"
+          },
+          "latency": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval.json",
+            "snapshotDate": "2026-09-07T02:57:42.226Z",
+            "fixtureVersion": 2,
+            "runs": 20,
+            "commit": "7da298e8"
+          },
+          "index": "retrieval-eval-competitors.json#models (same run as the competitor index timings)"
+        }
+      },
+      "shipped-hybrid:potion-retrieval-32M": {
+        "label": "Seekstone quality mode (opt-in 32M + MaxSim, hybrid)",
+        "overallHit5": 86.7,
+        "holdoutHit5": 86.7,
+        "semanticSubsetHit5": 92.2,
+        "lexicalSubsetHit5": 100,
+        "topicalSubsetHit5": 56.7,
+        "warmP50Ms": 54.56,
+        "warmP95Ms": 88.33,
+        "payloadBytes": 2085,
+        "payloadBytesSource": "scaling seekstone @10k",
+        "indexBuildMs": 25025,
+        "indexBuildMsQuietRun": 24439,
+        "provenance": {
+          "quality": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval-competitors.json",
+            "snapshotDate": "2026-09-06T23:54:32.553Z",
+            "fixtureVersion": 2,
+            "runs": 5,
+            "commit": "7da298e8"
+          },
+          "latency": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval.json",
+            "snapshotDate": "2026-09-07T02:57:42.226Z",
+            "fixtureVersion": 2,
+            "runs": 20,
+            "commit": "7da298e8"
+          },
+          "index": "retrieval-eval-competitors.json#models (same run as the competitor index timings)"
+        }
+      },
+      "shipped-semantic:potion-base-8M": {
+        "label": "shipped-semantic:potion-base-8M",
+        "overallHit5": 83.3,
+        "holdoutHit5": 86.7,
+        "semanticSubsetHit5": 84.4,
+        "lexicalSubsetHit5": 100,
+        "topicalSubsetHit5": 63.3,
+        "warmP50Ms": 25.07,
+        "warmP95Ms": 30.73,
+        "payloadBytes": 2085,
+        "payloadBytesSource": "scaling seekstone @10k",
+        "indexBuildMs": 27568,
+        "indexBuildMsQuietRun": 89263,
+        "provenance": {
+          "quality": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval-competitors.json",
+            "snapshotDate": "2026-09-06T23:54:32.553Z",
+            "fixtureVersion": 2,
+            "runs": 5,
+            "commit": "7da298e8"
+          },
+          "latency": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval.json",
+            "snapshotDate": "2026-09-07T02:57:42.226Z",
+            "fixtureVersion": 2,
+            "runs": 20,
+            "commit": "7da298e8"
+          },
+          "index": "retrieval-eval-competitors.json#models (same run as the competitor index timings)"
+        }
+      },
+      "shipped-hybrid:potion-base-8M": {
+        "label": "Seekstone default (8M + MaxSim, hybrid)",
+        "overallHit5": 83.3,
+        "holdoutHit5": 86.7,
+        "semanticSubsetHit5": 84.4,
+        "lexicalSubsetHit5": 100,
+        "topicalSubsetHit5": 63.3,
+        "warmP50Ms": 25.76,
+        "warmP95Ms": 56.07,
+        "payloadBytes": 2085,
+        "payloadBytesSource": "scaling seekstone @10k",
+        "indexBuildMs": 27568,
+        "indexBuildMsQuietRun": 89263,
+        "provenance": {
+          "quality": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval-competitors.json",
+            "snapshotDate": "2026-09-06T23:54:32.553Z",
+            "fixtureVersion": 2,
+            "runs": 5,
+            "commit": "7da298e8"
+          },
+          "latency": {
+            "report": "packages/harness/fixtures/baseline-reports/retrieval-eval.json",
+            "snapshotDate": "2026-09-07T02:57:42.226Z",
+            "fixtureVersion": 2,
+            "runs": 20,
+            "commit": "7da298e8"
+          },
+          "index": "retrieval-eval-competitors.json#models (same run as the competitor index timings)"
+        }
+      },
+      "competitor:obsidian-tc": {
+        "label": "obsidian-tc semantic",
+        "overallHit5": 88.7,
+        "holdoutHit5": 90,
+        "semanticSubsetHit5": 93.3,
+        "lexicalSubsetHit5": 100,
+        "topicalSubsetHit5": 63.3,
+        "warmP50Ms": 168.53,
+        "warmP95Ms": 177.87,
+        "version": "1.23.2",
+        "provider": "ollama/nomic-embed-text (its built-in default; loopback HTTP at index + query time)",
+        "indexMs": 1813559,
+        "payloadBytes": 15934,
+        "provenance": {
+          "report": "packages/harness/fixtures/baseline-reports/retrieval-eval-competitors.json",
+          "snapshotDate": "2026-09-06T23:54:32.553Z",
+          "fixtureVersion": 2,
+          "runs": 5,
+          "commit": "7da298e8"
+        }
+      },
+      "competitor:obsidian-tc-graph": {
+        "label": "obsidian-tc GraphRAG",
+        "overallHit5": 93.3,
+        "holdoutHit5": 95,
+        "semanticSubsetHit5": 97.8,
+        "lexicalSubsetHit5": 100,
+        "topicalSubsetHit5": 73.3,
+        "warmP50Ms": 2894.19,
+        "warmP95Ms": 4166.2,
+        "version": "1.23.2",
+        "provider": "ollama/nomic-embed-text (its built-in default; loopback HTTP at index + query time)",
+        "indexMs": 1813559,
+        "payloadBytes": 16418,
+        "provenance": {
+          "report": "packages/harness/fixtures/baseline-reports/retrieval-eval-competitors.json",
+          "snapshotDate": "2026-09-06T23:54:32.553Z",
+          "fixtureVersion": 2,
+          "runs": 5,
+          "commit": "7da298e8"
+        }
+      },
+      "competitor:obsidian-mcp-pro": {
+        "label": "obsidian-mcp-pro",
+        "version": "4.0.1",
+        "provider": "ollama/nomic-embed-text (loopback HTTP)",
+        "indexMs": 1020264,
+        "failed": true,
+        "error": "obsidian-mcp-pro index_vault: Error indexing vault: Invalid string length",
+        "notes": [
+          "Setup did not complete on the 10k-note fixture vault — no quality/latency numbers are possible; the failure itself is the recorded result."
+        ],
+        "provenance": {
+          "report": "packages/harness/fixtures/baseline-reports/retrieval-eval-competitors.json",
+          "snapshotDate": "2026-09-06T23:54:32.553Z",
+          "fixtureVersion": 2,
+          "runs": 5,
+          "commit": "7da298e8"
+        }
+      }
+    },
+    "gateV2": {
+      "shippedCondition": "shipped-hybrid:potion-retrieval-32M",
+      "competitorCondition": "competitor:obsidian-tc-graph",
+      "clauses": [
+        {
+          "clause": "holdout-beats-tc-graph",
+          "pass": false,
+          "reason": "holdout overall hit@5 86.7% vs competitor:obsidian-tc-graph 95.0% (n=60; gate: strictly greater): FAIL"
+        },
+        {
+          "clause": "holdout-lexical-100",
+          "pass": true,
+          "reason": "holdout lexical subset hit@5 100.0% (n=12; gate: 100% via routing): PASS"
+        },
+        {
+          "clause": "shipped-warm-p95",
+          "pass": false,
+          "reason": "shipped warm p95 91.70 ms @ 10k notes (gate ≤ 30 ms): FAIL"
+        },
+        {
+          "clause": "zero-new-deps-offline",
+          "pass": true,
+          "reason": "runtime deps unchanged from the pre-epic allowlist (7 pure-JS packages); offline enforced by no-network.test.ts: PASS"
+        }
+      ],
+      "verdict": "fail",
+      "preRegistered": "SHA-311",
+      "ranOn": "SHA-316 (fixture v1, 2026-08-31)",
+      "recomputedOnV2": true,
+      "note": "No pre-registered gate ran on fixture v2; these are the SHA-316 clauses recomputed on the v2 canon (COMPETITORS-SHA-322.md)."
+    }
+  }
+}

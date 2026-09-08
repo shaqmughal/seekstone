@@ -2,7 +2,7 @@
 /**
  * Docs-sync guard — fails CI when documentation drifts from the code.
  *
- * Three checks, all derived from source-of-truth code, never from other docs:
+ * Four checks, all derived from source-of-truth artifacts, never from other docs:
  *
  *  1. Tool counts. Every "<N> tools" phrase in the marketing/doc surfaces must
  *     equal HANDLED_TOOLS.length in dispatch.ts, and every "<N> read/write
@@ -12,6 +12,12 @@
  *     doc surface. CHANGELOGs and .changeset are exempt (they record history).
  *  3. Env vars. Every SEEKSTONE_* variable the server reads must be documented
  *     in both READMEs' configuration tables.
+ *  4. Benchmark figures. Every headline number in README / llms.txt / the npm
+ *     surfaces must equal the committed benchmarks.json (itself generated from
+ *     the harness baselines by scripts/build-benchmarks-json.mjs, and kept in
+ *     sync by its own --check step). Anchored sentences — a reworded claim
+ *     fails loudly instead of slipping out from under the guard. Logic lives
+ *     in scripts/benchmarks-guard.mjs so it is unit-tested.
  *
  * Born from the 2026-08 audit that found the npm README shipping a claim
  * retired a month earlier (SHA-276) plus "16 tools" surviving in
@@ -20,19 +26,15 @@
 import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
+import { checkNumbers, figureCount } from './benchmarks-guard.mjs';
+import { readGuaranteeCount, readToolCounts } from './lib/source-of-truth.mjs';
+
 const root = new URL('..', import.meta.url).pathname;
 const read = (p) => readFileSync(join(root, p), 'utf8');
 const errors = [];
 
 // ---------- source of truth: dispatch.ts ----------
-const dispatch = read('packages/server/src/dispatch.ts');
-const handled = dispatch.match(/HANDLED_TOOLS = \[([\s\S]*?)\]/);
-if (!handled) throw new Error('cannot locate HANDLED_TOOLS in dispatch.ts');
-const toolCount = [...handled[1].matchAll(/'[^']+'/g)].length;
-const writeTools = dispatch.match(/WRITE_TOOLS[^=]*= new Set\(\[([\s\S]*?)\]\)/);
-if (!writeTools) throw new Error('cannot locate WRITE_TOOLS in dispatch.ts');
-const writeCount = [...writeTools[1].matchAll(/'[^']+'/g)].length;
-const readCount = toolCount - writeCount;
+const { total: toolCount, read: readCount, write: writeCount } = readToolCounts(root);
 
 // ---------- check 1: tool counts ----------
 const COUNT_SURFACES = [
@@ -81,6 +83,30 @@ const RETIRED = [
   /vs our 76%/,
   /171\s*ms vs 14\s*ms/,
   /26\.5[- ]minute/,
+  // SHA-327: the fixture-v1 canon, retired by the fixture-v2 re-baseline
+  // (SHA-322). Our old 6.2 ms / 440× / ~14 ms headline, the v1 retrieval
+  // figures, and the "beats tc's plain semantic on holdout" claim that v2
+  // overturned (tc holds 90.0% vs our 86.7%). Live numbers are checked
+  // against benchmarks.json in check 4; this list is the belt to that braces.
+  /6\.2\s*ms/,
+  /~?440×/,
+  /~?118×/,
+  /\b2,?714\b/,
+  /\b1,?302\b/,
+  /\b958\s*ms/,
+  /~14\s*ms/,
+  /~6× slower/,
+  /~?90–250×/,
+  /91\.7% (on the )?held-out/,
+  /vs our 91\.7%/,
+  /84\.0% overall/,
+  /85\.0% (held|hold)/,
+  /222\s*ms/,
+  /833\s*ms/,
+  /36-minute/,
+  /~23 minutes/,
+  /88% of the time/,
+  /beats obsidian-tc'?s plain/,
 ];
 const RETIRED_SURFACES = [
   'README.md',
@@ -136,6 +162,21 @@ for (const file of [
   }
 }
 
+// ---------- check 4: benchmark figures match benchmarks.json ----------
+const bench = JSON.parse(read('benchmarks.json'));
+if (bench.tools.total !== toolCount || bench.tools.write !== writeCount) {
+  errors.push(
+    `benchmarks.json says ${bench.tools.total} tools (${bench.tools.write} write) but dispatch.ts has ${toolCount} (${writeCount} write) — run node scripts/build-benchmarks-json.mjs`,
+  );
+}
+const guaranteeCount = readGuaranteeCount(root);
+if (bench.guarantees.count !== guaranteeCount) {
+  errors.push(
+    `benchmarks.json says ${bench.guarantees.count} guarantees but docs/WRITE-SAFETY.md has ${guaranteeCount} — run node scripts/build-benchmarks-json.mjs`,
+  );
+}
+errors.push(...checkNumbers(bench, read));
+
 // ---------- verdict ----------
 if (errors.length > 0) {
   console.error(`docs-sync guard: ${errors.length} problem(s)\n`);
@@ -144,5 +185,6 @@ if (errors.length > 0) {
 }
 console.log(
   `docs-sync guard: ${COUNT_SURFACES.length + RETIRED_SURFACES.length} surfaces clean ` +
-    `(${toolCount} tools = ${readCount} read + ${writeCount} write; ${vars.size} env vars documented)`,
+    `(${toolCount} tools = ${readCount} read + ${writeCount} write; ${vars.size} env vars documented; ` +
+    `${figureCount(bench)} benchmark figures verified against benchmarks.json)`,
 );
